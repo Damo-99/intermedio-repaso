@@ -7,7 +7,7 @@ public class Auto extends Vehiculo {
 	}
 
 	@Override
-	public int getRuedas() {
+	public Integer getCantidadRuedas() {
 	 return 4;
 	}
 
